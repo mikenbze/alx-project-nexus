@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './',   // Use relative paths for all assets
+  base: './',  // relative paths so assets load correctly on Vercel
   build: {
     outDir: 'dist',
-    emptyOutDir: true
-  }
+    emptyOutDir: true,
+  },
 });
