@@ -20,6 +20,7 @@
   "scripts": {
   "dev": "npx vite",
   "build": "npx vite build",
-  "start": "npx vite"
+  "start": "npx vite preview"
 }
+
 }
