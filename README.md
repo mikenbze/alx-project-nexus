@@ -11,6 +11,17 @@ A React + TypeScript e-commerce catalog with API integration, filtering, sorting
 - **Redux** – Efficient state management.
 - **TypeScript** – Type safety and maintainable code.
 - **Tailwind CSS** – Modern and responsive UI styling.
+- **Axios** - Javascript library to Communicate with APIs to fetch, send, or update data.
+I used this to link to fakestoreapi
+import axios from "axios";
+async function fetchData() {
+  try {
+    const response = await axios.get("https://fakestoreapi.com/products");
+    console.log(response.data);
+  } catch (error) {
+    console.error(error);
+  }
+}
 
 
 ## Key Features
