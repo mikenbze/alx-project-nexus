@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './',   // ← MUST be relative for Vercel
+  base: './',  // <- This is the critical fix
   build: {
     outDir: 'dist',
-    emptyOutDir: true,
-  },
+    emptyOutDir: true
+  }
 });
