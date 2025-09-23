@@ -36,12 +36,10 @@ async function fetchData() {
 - **Multi-Criteria Filters** – Combine filters for refined results.
 
 ### 3. Pagination and Infinite Scrolling
-- Numbered pagination for structured browsing.
-- Infinite scrolling to dynamically load products as users scroll.
+- I decided to use Infinite scrolling to dynamically load products as users scroll.
 
 ### 4. Responsive Design
 - Fully responsive layout across desktops, tablets, and mobile devices.
-
 
 ## Implementation Process
 
