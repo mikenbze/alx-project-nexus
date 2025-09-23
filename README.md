@@ -85,3 +85,12 @@ Deployed to Vercel or Netlify for public access.
 
 ## Contact
 For questions or feedback, feel free to reach out via https://github.com/mikenbze
+
+##GitHub Link##
+Link to the GitHub repository for my project
+https://github.com/mikenbze/alx-project-nexus
+
+
+##Hosted Project Link##
+Link to where Project is hosted.
+https://nexus-mikenbze-mikenbzes-projects.vercel.app/
