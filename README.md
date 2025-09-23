@@ -23,9 +23,7 @@ async function fetchData() {
   }
 }
 
-
 ## Key Features
-
 ### 1. API Data Integration
 - Dynamic fetching and rendering of product data.
 - Includes error handling and loading states for smooth UX.
@@ -36,16 +34,25 @@ async function fetchData() {
 - **Multi-Criteria Filters** – Combine filters for refined results.
 
 ### 3. Pagination and Infinite Scrolling
-- Numbered pagination for structured browsing.
-- Infinite scrolling to dynamically load products as users scroll.
+- I decided to use Infinite scrolling to dynamically load products as users scroll.
 
 ### 4. Responsive Design
 - Fully responsive layout across desktops, tablets, and mobile devices.
 
-
-## Implementation Process
-
 ### Git Commit Workflow
 **Initial Setup**
-feat: set up project structure with React and TypeScript
+feat: set up project structure with React,Tailwind and TypeScript
 feat: add API integration for fetching product data
+
+### Feature Development
+feat: implement product filtering and sorting functionality
+feat: add pagination and infinite scrolling
+
+### UI Enhancements
+style: enhance UI with Tailwind CSS
+
+### Bug Fixes
+fix: resolve bug in filtering logic
+fix: Deployment to vercel
+fix: error 404
+fix: page routing
