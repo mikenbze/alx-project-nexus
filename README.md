@@ -93,4 +93,4 @@ https://github.com/mikenbze/alx-project-nexus
 
 **Hosted Project Link**
 Link to where Project is hosted.
-https://nexus-mikenbze-mikenbzes-projects.vercel.app/
+https://nexus-mikenbze-mikenbzes-projects.vercel.app?_vercel_share=C1SLbZ73CnhSA1FV8EuQOwIlwKzCBGiA
